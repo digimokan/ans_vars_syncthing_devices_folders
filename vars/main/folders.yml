@@ -4,5 +4,4 @@ ans_vars_list_of_available_syncthing_folders:
   - { folder_id: 'st_pics', folder_label: 'Photos Snapped' }
   - { folder_id: 'st_podcasts', folder_label: 'Podcasts' }
   - { folder_id: 'st_sync', folder_label: 'Temp Sync' }
-  - { folder_id: 'st_todo_scheds', folder_label: 'To-Do And Schedules' }
 
