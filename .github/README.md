@@ -54,7 +54,7 @@ Define a set of LAN-common syncthing devices and shared syncthing folders.
      connection: local
      tasks:
        - name: "Define a set of LAN-common syncthing devices and shared syncthing folders"
-         ansible.builtin.import_role:
+         ansible.builtin.include_role:
            name: ans_vars_syncthing_devices_folders
            public: true
    ```
