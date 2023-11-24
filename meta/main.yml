@@ -1,0 +1,21 @@
+galaxy_info:
+  author: digimokan
+  description: "Define a set of LAN-common syncthing devices and shared syncthing folders"
+  license: "MIT"
+  min_ansible_version: 2.3
+  platforms:
+    - name: Ubuntu
+      versions:
+        - all
+    - name: Archlinux
+      versions:
+        - all
+    - name: FreeBSD
+      versions:
+        - all
+  galaxy_tags:
+    - ubuntu
+    - archlinux
+    - freebsd
+    - syncthing
+
