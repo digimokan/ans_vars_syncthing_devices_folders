@@ -1,6 +1,7 @@
 # list of syncthing Device IDs for hosts on the LAN that are sharing folders
 ans_vars_list_of_available_syncthing_devices:
   - { hostname: 'userg-workstation0.machine', device_id: 'FSSP6GQ-OOD7K7K-FLMF4LV-AZN2GBO-PNQID6M-IURLWJD-YZX4MWA-C7HYXAU' }
+  # - { hostname: 'gmachine', device_id: 'QS76FIF-EPWWWKE-MQMP7XN-PCFH6PR-4EQ7H7W-Q7WGATL-L4VMNZ5-3PMWVAT' }
   - { hostname: 'cellphone_op6_0', device_id: '3AT2VPU-7Y5ZCL4-B3GD42F-LIS76GB-YPMS2OO-X5QS33E-ORGYKQZ-IJEGHQP' }
   - { hostname: 'cellphone_op6_1', device_id: 'H5UHITJ-RD35HIU-NU4AWCJ-MVXPQ6B-XEXDBCO-7IKOJ42-W7DYQVZ-K7LAZAH' }
 
